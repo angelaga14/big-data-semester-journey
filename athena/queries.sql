@@ -1,0 +1,2 @@
+
+Add Athena queries structure
